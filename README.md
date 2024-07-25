@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Back-end Development**
 
-- 🌱 I’m currently learning **Python and C**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👯 I’m looking to collaborate on **Full-Stack Development Projects**
 
@@ -16,3 +16,9 @@
 - 📫 How to reach me **victorpraise949@gmail.com**
 
 - ⚡ Fun fact **I'm fun to work with**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/PraiseKipngeno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PraiseKipngeno" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/praise-kipngeno-552450256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Praise Kipngeno" height="30" width="40" /></a>
+</p>

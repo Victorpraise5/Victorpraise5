@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Praise Kipngeno</h1>
+<h3 align="center">I am a passionate Full-Stack Software Engineer.</h3>
 
-<!--
-**Victorpraise5/Victorpraise5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxrutto&label=Profile%20views&color=0e75b6&style=flat" alt="maxrutto" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://x.com/PraiseKipngeno" target="blank"><img src="https://img.shields.io/twitter/follow/PraiseKipngeno?logo=twitter&style=for-the-badge" alt="max_millan__" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Back-end Development**
+
+- 🌱 I’m currently learning **Python and C**
+
+- 👯 I’m looking to collaborate on **Full-Stack Development Projects**
+
+- 💬 Ask me about **Flask, Django**
+
+- 📫 How to reach me **victorpraise949@gmail.com**
+
+- ⚡ Fun fact **I'm fun to work with**

@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PraiseVictor?tab=followers">
+  <a href="https://github.com/Victorpraise5">
     <img src="https://img.shields.io/github/followers/PraiseVictor?label=Followers&style=social" alt="GitHub followers">
   </a>
   <a href="https://github.com/PraiseVictor?tab=repositories">

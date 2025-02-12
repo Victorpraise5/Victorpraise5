@@ -1,30 +1,139 @@
-<h1 align="center">Hi 👋, I'm Praise Kipngeno</h1>
-<h3 align="center">I am a passionate Full-Stack Software Engineer.</h3>
+<!-- Professional GitHub Profile README Template -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxrutto&label=Profile%20views&color=0e75b6&style=flat" alt="maxrutto" /> </p>
-
-<p align="left"> <a href="https://x.com/PraiseKipngeno" target="blank"><img src="https://img.shields.io/twitter/follow/PraiseKipngeno?logo=twitter&style=for-the-badge" alt="max_millan__" /></a> </p>
-
-- 🔭 I’m currently working on **Back-end Development**
-
-- 🌱 I’m currently learning **Software Engineering**
-
-- 👯 I’m looking to collaborate on **Full-Stack Development Projects**
-
-- 💬 Ask me about **Flask, Django**
-
-- 📫 How to reach me **victorpraise949@gmail.com**
-
-- ⚡ Fun fact **I'm fun to work with**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/PraiseKipngeno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PraiseKipngeno" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/praise-kipngeno-552450256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Praise Kipngeno" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Praise Victor</h1>
+<p align="center">
+  <em>
+    A passionate and dedicated Software Engineer committed to solving some of the world's biggest problems through technology.
+  </em>
 </p>
-<div align=center >
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Praise+Kipngeno.;Back+End+Engineer+/+Back+End+Dev;."
-/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/PraiseVictor?tab=followers">
+    <img src="https://img.shields.io/github/followers/PraiseVictor?label=Followers&style=social" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/PraiseVictor?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-10%2B-blue" alt="Projects badge">
+  </a>
+</p>
+
+---
+
+## 🌟 About Me
+
+- 🎓 I am a **graduate** of the **ALX Software Engineering Program**, where I kickstarted my journey into tech.
+- 💡 My passion lies in using **technology to solve real-world problems** and make a meaningful impact.
+- 🔭 I love building scalable and innovative solutions using my expertise in **backend development** and **database management**.
+- 🌱 Currently learning and experimenting with advanced **DevOps concepts** and **system scaling**.
+
+---
+
+## 💻 Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48">
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="48" height="48">
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48">
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48">
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48">
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48">
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48">
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48">
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48">
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" alt="DevOps" width="48" height="48">
+      <br>DevOps
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+Here are some of my favorite projects:
+
+### 🌐 StayINN.com
+- **Role:** Backend Developer & Database Admin
+- **Description:** A hotel booking application for East Africa. Features include booking hotels, villas, cabins, and more, with user authentication and payment integration.
+- **Tech Used:** Python, Flask, MySQL
+- [🌟 View Repository](https://github.com/PraiseVictor/StayINN)
+
+### 💰 Expense Splitting App
+- **Role:** Backend Developer
+- **Description:** A platform for splitting expenses among groups, tracking balances, and simplifying debts with real-time updates and payment integration.
+- **Tech Used:** Python, Flask, Redis, MongoDB
+- [🌟 View Repository](https://github.com/PraiseVictor/ExpenseSplittingApp)
+
+### ✍️ BlogApp
+- **Role:** Backend Developer
+- **Description:** A blogging platform where users can publish, edit, and manage blog posts with a sleek and modern design.
+- **Tech Used:** Flask, Jinja Templates, MySQL
+- [🌟 View Repository](https://github.com/PraiseVictor/BlogApp)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PraiseVictor&show_icons=true&theme=radical" alt="Praise Victor's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PraiseVictor&theme=radical" alt="Praise Victor's GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiseVictor&layout=compact&theme=radical" alt="Praise Victor's Top Languages">
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/praise-kipngeno-552450256/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Profile">
+  </a>
+  <a href="mailto:praisevictor@example.com">
+    <img src="https://img.shields.io/badge/Email-Me-red" alt="Email Me">
+  </a>
+  <a href="https://github.com/Victorpraise5">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub Profile">
+  </a>
+</p>
+
+---
+
+## 🛠️ Open to Opportunities
+
+I am seeking challenging and exciting engineering roles where I can learn, contribute, and grow. I am particularly interested in opportunities in **backend development**, **DevOps**, or projects solving real-world problems. If you'd like to collaborate or have an opportunity in mind, feel free to reach out!

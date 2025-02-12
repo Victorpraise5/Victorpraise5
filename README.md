@@ -1,6 +1,6 @@
 <!-- Professional GitHub Profile README Template -->
 
-<h1 align="center">Hi 👋, I'm Praise Victor</h1>
+<h1 align="center">Hi 👋, I'm Praise Kipngeno</h1>
 <p align="center">
   <em>
     A passionate and dedicated Software Engineer committed to solving some of the world's biggest problems through technology.
